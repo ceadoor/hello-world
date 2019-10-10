@@ -1,0 +1,9 @@
+#include<iostream.h>
+#include<conio.h>
+#iclude<stdio.h>
+void main()
+{
+clrscr();
+print("Hello-world")
+getch();
+}
